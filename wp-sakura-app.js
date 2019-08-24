@@ -1790,7 +1790,7 @@ $(function () {
     $(document).on("click", ".specsZan", function () {
         $(this).postLike();
     });
-    console.log("%c Yremp %c", "background:#25B943; color:#ffffff", "", "https://2heng.xin/");
+    console.log("%c Yremp %c", "background:#25B943; color:#ffffff", "", "https://yremp.live/");
     console.log("%c Github %c", "background:#25B943; color:#ffffff", "", "https://github.com/yremp");
 });
 var isWebkit = navigator.userAgent.toLowerCase().indexOf('webkit') > -1,
