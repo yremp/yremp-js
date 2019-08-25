@@ -1027,7 +1027,7 @@ function loadBotui() {
         if (mashiro_global.variables.has_bot_ui) {
             bot_ui_ini();
         } else {
-            $.getScript('https://pages.shino.cc/cdn/js/botui/botui.js', function () {
+            $.getScript('https://yremp.live/wp-content/uploads/resource/js/botui.js', function () {
                 bot_ui_ini();
                 mashiro_global.variables.has_bot_ui = true;
             });
